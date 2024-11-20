@@ -1,6 +1,6 @@
 # Analyzing the effectiveness of synthetic data on learning models which train on scarce datasets
 
-Levi Pare, Rivier Bunpas, Jack D'Iorio
+Levi Pare, Rivier Bumpas, Jack D'Iorio
 
 Goal: Best accuracy for public model which satisfies DP and utilizes sensitive data which is scarce
 
