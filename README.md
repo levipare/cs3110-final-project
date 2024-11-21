@@ -10,6 +10,9 @@ Problem:
 
 Note: we are using public data for ease of collection, show how this could apply to real world scenarios
 
+(Open to change, please modify if necessary)
+Hypothesis: Training a classification model on synthetic data generated from the original dataset yields a more accurate model than one trained on the original dataset where the output of either system satisfies epsilon-delta Differential Privacy.
+
 ## Tests
 
 ### Method 1:
