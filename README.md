@@ -1,4 +1,4 @@
-# Analyzing the effectiveness of synthetic data on learning models which train on scarce datasets
+# Assessing Model Performance: Synthetic Data and Differential Privacy for Scarce Sensitive Datasets
 
 Levi Pare, River Bumpas, Jack D'Iorio
 
@@ -25,3 +25,7 @@ Train DP public model on original low count data
 
 ### Method 4:
 Train public model on noisy original data
+
+
+## Notes:
+- We want a Multi-layer Perception (MLP) for this classification problem
