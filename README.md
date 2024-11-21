@@ -34,3 +34,4 @@ Train public model on noisy original data
 - We want a Multi-layer Perception (MLP) for this classification problem
 - Must do best to ensure quality of synthetic data or it will affect downstream results
 - Must have a maximum epsilon value which methods can meet but must not exceed, less epsilon is okay for more accuracy (CHECK THIS POINT)
+- Must use same data split (train / test) for methods 1,2 and 3,4
