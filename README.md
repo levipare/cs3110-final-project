@@ -19,6 +19,9 @@ Hypothesis: Training a classification model on synthetic data generated from the
 - [ ] Generate graphical model
 - [ ] Sythetic data by 2-way marginals
 - [ ] ML model architecture
+      - Model?
+      - Loss function?
+      - Activation function?
 - [ ] Stochastic Gradient Descent
 
 ## Tests
