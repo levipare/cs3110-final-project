@@ -13,6 +13,8 @@ Note: we are using public data for ease of collection, show how this could apply
 (Open to change, please modify if necessary)
 Hypothesis: Training a classification model on synthetic data generated from the original dataset yields a more accurate model than one trained on the original dataset where the output of either system satisfies epsilon-delta Differential Privacy.
 
+**ADDRESS THE FACT THAT synth-noise USES APPROXIMATE DIFF. PRIV. AND dp_decisiontree USES PURE EPSILON DIFF. PRIV**
+
 ## Todo
 - [x] Submit proposal
 - [x] Submit CS Fair
