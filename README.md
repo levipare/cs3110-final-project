@@ -15,7 +15,7 @@ Hypothesis: Training a classification model on synthetic data generated from the
 
 ## Todo
 - [x] Submit proposal
-- [ ] Submit CS Fair
+- [x] Submit CS Fair
 - [ ] Generate graphical model
 - [ ] Sythetic data by 2-way marginals
 - [ ] ML model architecture
@@ -38,7 +38,7 @@ Generate synthetic data without noise and train DP public model
 Train DP public model on original low count data
 
 ### Method 4:
-Train public model on noisy original data
+Train public model on original data
 
 
 ## Notes:
